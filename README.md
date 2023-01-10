@@ -11,7 +11,7 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
 
 
 <h2>You can also find me here :)</h2>
-<div style:"display: grid; grid-template-colums: 1fr 1fr 1fr; align-items:center">
+<div style:"display: flex; flex-direction:column; align-items:center">
   <a href="https://www.facebook.com/leo.stefan.iliescu"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png"></a>
 <a href="https://www.instagram.com/leostefann/"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png"></a>
 <a href="https://www.linkedin.com/in/iliescu-stefan-leonard-95b935208/"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png"></a>
