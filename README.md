@@ -8,3 +8,5 @@
 
 💪 I work in a proactive way, i love facing new challenges, and i have no problem working under pressure.
 Both my creative and my analitycal thinking are helping me find solutions in difficult situations.
+
+<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png">
