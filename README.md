@@ -10,8 +10,7 @@
 Both my creative and my analitycal thinking are helping me find solutions in difficult situations.
 
 
-<h2>You can also find me here :)</h2>
-### How to reach me: 
+<h2>You can also find me here :)</h2> 
   <a href="mailto: leostefan1227@gmail.com">   
   <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href="https://www.linkedin.com/in/billpwchan1998/">
