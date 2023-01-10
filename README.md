@@ -11,8 +11,11 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
 
 
 <h2>You can also find me here :)</h2> 
-  <a href="mailto: leostefan1227@gmail.com">   
-  <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="mailto: leostefan1227@gmail.com">
+    <img src="https://img.shields.io/badge/@leostefan27_-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a><img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href="https://www.linkedin.com/in/billpwchan1998/">
   <img src="https://img.shields.io/badge/billpwchan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
   <a  href="https://www.billpwchan.com/">
