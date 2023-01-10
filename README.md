@@ -15,7 +15,7 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
   <a  href="https://www.billpwchan.com/">
   <img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
-<h3>Highlights :unicorn:</h3>
+<h3>And some highlights of my profile :unicorn:</h3>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leostefan27&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
