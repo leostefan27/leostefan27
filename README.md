@@ -11,12 +11,13 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
 
 
 <h2>You can also find me here :)</h2>
-<div style:"display: flex; flex-direction:column; align-items:center">
-  <a href="https://www.facebook.com/leo.stefan.iliescu"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png"></a>
-<a href="https://www.instagram.com/leostefann/"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png"></a>
-<a href="https://www.linkedin.com/in/iliescu-stefan-leonard-95b935208/"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png"></a>
-
-</div>
+### How to reach me: 
+  <a href="mailto: leostefan1227@gmail.com">   
+  <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/billpwchan1998/">
+  <img src="https://img.shields.io/badge/billpwchan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+  <a  href="https://www.billpwchan.com/">
+  <img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### GitHub Highlights: :blossom:
 <a href="">
