@@ -11,7 +11,7 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
 
 
 <h2>You can also find me here :)</h2> 
-  <a href="mailto: leostefan1227@gmail.com"><img src="https://img.shields.io/badge/leostefan1227@gmail.com_-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/leostefann/"><img src="https://img.shields.io/badge/@leostefann_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/iliescu-stefan-leonard-95b935208/"><img src="https://img.shields.io/badge/Iliescu Stefan-Leonard-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+  <a href="mailto: leostefan1227@gmail.com"><img src="https://img.shields.io/badge/leostefan1227@gmail.com_-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/leostefann/"><img src="https://img.shields.io/badge/@leostefann_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/iliescu-stefan-leonard-95b935208/"><img src="https://img.shields.io/badge/Iliescu Stefan-Leonard-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
   <a  href="https://www.billpwchan.com/">
   <img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
