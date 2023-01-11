@@ -15,11 +15,12 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
 
 <h3>And some highlights of my profile :unicorn:</h3>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leostefan27&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leostefan27&theme=material-palenight"/>
 </a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leostefan27&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+
 
 
 
