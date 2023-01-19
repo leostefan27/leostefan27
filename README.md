@@ -21,7 +21,6 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
 <h3>And this is what i use the most :point_down:</h3>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leostefan27&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 
