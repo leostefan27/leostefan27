@@ -4,7 +4,7 @@
 
 🏠 At this moment i'm located in Bucharest, Romania.
 
-🌱 Actually Robotics Student at University Politehnica of Bucharest, increasing both my tehnical and solf skills.
+🌱 Actually Robotics Student at University Politehnica of Bucharest, increasing both my tehnical and soft skills.
 
 💪 I work in a proactive way, i love facing new challenges, and i have no problem working under pressure.
 Both my creative and my analitycal thinking are helping me find solutions in difficult situations.
