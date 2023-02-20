@@ -24,7 +24,7 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leostefan27&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
-
+<br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=leostefan27&label=Profile%20Views&color=8&icon=2&pretty=true" />
 </a>
