@@ -18,6 +18,8 @@ Both my creative and my analitycal thinking are helping me find solutions in dif
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leostefan27&theme=material-palenight"/>
 </a>
 
+<h3>My favourite technologies :computer:</h3>
+
 <h3>And this is what i use the most of the time :point_down:</h3>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leostefan27&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
