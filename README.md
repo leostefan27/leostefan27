@@ -29,8 +29,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leostefan27&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://visitcount.itsvg.in/api?id=leostefan27&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=leostefan27&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
 
 
 
