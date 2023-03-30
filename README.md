@@ -12,7 +12,7 @@
 
 <h3>Some highlights of my profile :unicorn:</h3>
 
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leostefan27&theme=material-palenight"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leostefan27&show_icons=true&theme=material-dark" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leostefan27&theme=dark"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leostefan27&show_icons=true&theme=dark" />
 
 
 
